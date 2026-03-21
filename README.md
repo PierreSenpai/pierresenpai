@@ -43,8 +43,8 @@ Ultimately, I'm looking forward to studying at Oxbridge or any other elite unive
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](linkedin.com/in/pierre-martin-walther-b02506397)
-- 📫 [Email](pierre07.walther@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/pierre-martin-walther)
+- 📫 [Email](mailto:pierre07.walther@gmail.com)
 
 ---
 
