@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **PierreSenpai/pierresenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Servus! / Hello there! 👋
+
+I'm Pierre, an aspiring Software Developer in Germany.
+
+My focus lies on improving my real-world-skills in the form of projects and I'm planning to try out different directions in Computer Science to find the perfect niche for me.
+Ultimately, I'm looking forward to studying at Oxbridge or any other elite university, but until then, a lot of work has to be done. 💪
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Python` • `Java` 
+
+**Currently Learning:**  
+- Further improving my Java proficiency
+
+---
+
+## 🧠 A bit about me
+
+- 🧩 Always enjoyed solving problems and understanding systems deeply
+- 🎮 Playing games and watching anime (especially with friends)
+- 🌍 Interested in studying/working internationally
+- ☕ Not a coffee person - somehow awake anyway
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](linkedin.com/in/pierre-martin-walther-b02506397)
+- 📫 [Email](pierre07.walther@gmail.com)
+
+---
+
+⭐ *Always open to feedback, collaboration, and new opportunities.*
