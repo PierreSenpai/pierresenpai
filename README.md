@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Pierre, an aspiring Software Developer in Germany.
 
-My focus lies on improving my real-world-skills in the form of projects and I'm planning to try out different directions in Computer Science to find the perfect niche for me.
+My focus lies on improving my real-world-skills in the form of projects and I'm planning to try out different directions in Computer Science to find the perfect niche for me.  
 Ultimately, I'm looking forward to studying at Oxbridge or any other elite university, but until then, a lot of work has to be done. 💪
 
 ---
@@ -29,6 +29,7 @@ Ultimately, I'm looking forward to studying at Oxbridge or any other elite unive
 
 **Currently Learning:**  
 - Further improving my Java proficiency
+- Getting to know Git & GitHub better
 
 ---
 
