@@ -30,6 +30,7 @@ Ultimately, I'm looking forward to studying at Oxbridge or any other elite unive
 **Currently Learning:**  
 - Further improving my Java proficiency
 - Getting to know Git & GitHub better
+- In the long run: Learn all aspect of Backend Development
 
 ---
 
